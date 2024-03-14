@@ -1,0 +1,19 @@
+{
+    "parent_path": "/scratch/share_test/exec_data/fany_data/parent_result",
+    "base_data_path": "/scratch/share_test/exec_data/train_base/loc/test",
+    "score_path": "/scratch/wy_dev/ML/share_datatools/data/T0/snap_allday/score/theo_midret/",
+    "save_dir":"/scratch/share_test/exec_data/fanymodel/lgb_20240112_v4/backtest_res",
+    "timestamp_path":"/scratch/wy_dev/ML/share_datatools/data/T0/snap_allday/infos/updatetime",
+    "localtime_path":"/scratch/wy_dev/ML/share_datatools/data/T0/snap_allday/infos/localtime",
+    "snap_data_url":"datahub:/high_frequency/stock/common/tonglian/snapshot/data",
+    "ticker_idx_path":"/scratch/wy_dev/ML/share_datatools/data/T0/snap_allday/ticker_idx",
+    "buy_take_threshold": 2,
+    "sell_take_threshold": 2.5,
+    "multivol": 5,
+    "sleepmulti": 0,
+    "a":0,
+    "b":0,
+    "c":1,
+    "d":0,
+    "used_label_idx":[4]
+}

@@ -1,0 +1,16 @@
+{
+    "parent_path": "/scratch/share_test/exec_data/fany_data/parent_result",
+    "base_data_path": "/scratch/share_test/exec_data/train_base/loc/test",
+    "score_path": "/scratch/share_test/exec_data/fanymodel/lgb_20240112_v4/pred/",
+    "save_dir":"/scratch/share_test/exec_data/fanymodel/lgb_20240112_v4/backtest_res1",
+    "snap_data_url":"datahub:/high_frequency/stock/common/tonglian/snapshot/data",
+    "buy_take_threshold": -1,
+    "sell_take_threshold": -1,
+    "multivol": 5,
+    "sleepmulti": 0,
+    "a":0.04153605734976906,
+    "b":-0.06297003577640115,
+    "c":0.03445960731714648,
+    "d":-0.006861860212284521,
+    "used_label_idx":[1,3]
+}
